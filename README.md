@@ -3,7 +3,7 @@ sushi theme [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?sty
 
 ## Install
 
-After installing [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh),  install this by:
+After installing [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and emoji plugin,  install this by:
 
 ```bash
 $ curl -fsSL https://github.com/chiisaihayashi/sushi-theme/blob/master/sushi.zsh-theme >> ~/.oh-my-zsh/themes/sushi.zsh-theme
